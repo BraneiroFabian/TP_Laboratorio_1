@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587155898 source:c:\users\admin\desktop\proyectos\calculadora 3\calculadora 3.c
+
+1587161288 source:c:\users\admin\desktop\proyectos\calculadora 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
